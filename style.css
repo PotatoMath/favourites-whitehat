@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background-color: #B39DDB
+}
+h1 {
+  font-size:20px;
+  text-shadow:2px 2px #F8BBD0;
+}
+#bio {
+  font-family: 'Antic Slab', serif;
+  padding: 20px;
+  font-size:18px;
+}
+#para {
+    font-family: 'Antic Slab', serif;
+    padding: 20px;
+    font-size:18px;
+
+}
+img {
+  width:120px;
+}
+p {
+  font-size:18px;
+  
+}
+html {
+  scroll-behavior: smooth
+}
